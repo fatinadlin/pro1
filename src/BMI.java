@@ -19,6 +19,9 @@ public static void main(String[] args){
     System.out.print("Masukkan berat badan anda dalam ukuran kg: " );
     double berat=input.nextDouble();
     
+      System.out.print("Masukkan berat badan anda dalam ukuran kg: " );
+    double berat=input.nextDouble();
+    
     System.out.print("Masukkan tinggi anda dalam ukuran cm :" );
     double tinggi=input.nextDouble();
     
